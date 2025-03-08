@@ -1,4 +1,4 @@
-# Minecraft-
+# 基于YOLOv5的浮标检测实现自动化钓鱼脚本
 基于YOLO算法实现的小目标物体检测，labelmg图片标注
 工具
 训练YOLO模型的要点
